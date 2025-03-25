@@ -1,4 +1,20 @@
-## Hi there 👋
+## Welcome!
+I'm a CS/Physics uni student in my last year of studies.
+
+Language experience:
+  C#,
+  C,
+  css,
+  html,
+  Javascript,
+  Java,
+  Matlab,
+  Python,
+  React/node.js
+  
+<picture>
+  <img alt="Clouds.png" src="clouds.png">
+</picture>
 
 <!--
 **jachue/jachue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
